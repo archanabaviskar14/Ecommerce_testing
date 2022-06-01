@@ -1,0 +1,322 @@
+2022-05-27 09:22:58,159 [main] INFO TC_LoginTest_001 - URL is provided
+2022-05-27 09:22:58,209 [main] INFO TC_LoginTest_001 - Username and Password provided
+2022-05-27 09:23:01,205 [main] INFO TC_LoginTest_001 - Login is clicked
+2022-05-27 09:25:42,144 [main] INFO BaseClass - URL is provided
+2022-05-27 09:25:42,185 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:25:45,501 [main] INFO BaseClass - Login is clicked
+2022-05-27 09:34:01,351 [main] INFO BaseClass - URL is provided
+2022-05-27 09:34:01,404 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:34:04,642 [main] INFO BaseClass - Login is clicked
+2022-05-27 09:36:34,094 [main] INFO BaseClass - URL is provided
+2022-05-27 09:36:34,165 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:36:37,148 [main] INFO BaseClass - Login is clicked
+2022-05-27 09:36:42,174 [main] INFO BaseClass - login failed
+2022-05-27 09:42:25,101 [main] INFO BaseClass - URL is provided
+2022-05-27 09:42:25,167 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:42:28,857 [main] INFO BaseClass - Login is clicked
+2022-05-27 09:42:33,881 [main] INFO BaseClass - login failed
+2022-05-27 09:45:54,559 [main] INFO BaseClass - URL is provided
+2022-05-27 09:45:54,613 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:45:58,099 [main] INFO BaseClass - Login is clicked
+2022-05-27 09:46:03,125 [main] INFO BaseClass - login failed
+2022-05-27 09:47:48,357 [main] INFO BaseClass - URL is provided
+2022-05-27 09:47:48,403 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:48:30,787 [main] INFO BaseClass - Login is clicked
+2022-05-27 09:48:35,800 [main] INFO BaseClass - login failed
+2022-05-27 09:51:16,883 [main] INFO BaseClass - URL is provided
+2022-05-27 09:51:16,938 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:51:19,816 [main] INFO BaseClass - Login is clicked
+2022-05-27 09:53:03,127 [main] INFO BaseClass - URL is provided
+2022-05-27 09:53:03,187 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:53:06,145 [main] INFO BaseClass - Login is clicked
+2022-05-27 09:53:17,324 [main] INFO BaseClass - passed
+2022-05-27 09:54:23,955 [main] INFO BaseClass - URL is provided
+2022-05-27 09:54:24,002 [main] INFO BaseClass - Username and Password provided
+2022-05-27 09:54:26,871 [main] INFO BaseClass - Login is clicked
+2022-05-27 14:49:03,692 [main] INFO BaseClass - URL is provided
+2022-05-27 14:49:03,737 [main] INFO BaseClass - Username and Password provided
+2022-05-27 14:49:13,461 [main] INFO BaseClass - Login is clicked
+2022-05-27 14:50:30,572 [main] INFO BaseClass - URL is provided
+2022-05-27 14:50:30,619 [main] INFO BaseClass - Username and Password provided
+2022-05-27 14:50:33,919 [main] INFO BaseClass - Login is clicked
+2022-05-27 14:50:45,734 [main] INFO BaseClass - passed
+2022-05-27 15:49:20,394 [main] INFO BaseClass - URL is provided
+2022-05-27 15:49:20,598 [main] INFO BaseClass - Username and Password provided
+2022-05-27 15:49:57,986 [main] INFO BaseClass - Login is clicked
+2022-05-27 15:50:13,164 [main] INFO BaseClass - passed
+2022-05-27 15:50:19,500 [main] INFO BaseClass - URL is provided
+2022-05-27 15:50:19,502 [main] INFO BaseClass - Username and Password provided
+2022-05-27 15:50:21,562 [main] INFO BaseClass - Login is clicked
+2022-05-27 15:50:32,753 [main] INFO BaseClass - passed
+2022-05-27 16:08:48,037 [main] INFO BaseClass - chrome is running
+2022-05-27 16:08:49,499 [main] INFO BaseClass - URL is provided
+2022-05-27 16:08:49,580 [main] INFO BaseClass - Username and Password provided
+2022-05-27 16:08:52,833 [main] INFO BaseClass - Login is clicked
+2022-05-27 16:09:04,115 [main] INFO BaseClass - passed
+2022-05-27 16:09:09,795 [main] INFO BaseClass - firefox is running
+2022-05-27 16:09:10,961 [main] INFO BaseClass - URL is provided
+2022-05-27 16:09:10,962 [main] INFO BaseClass - Username and Password provided
+2022-05-27 16:09:13,490 [main] INFO BaseClass - Login is clicked
+2022-05-27 16:09:24,636 [main] INFO BaseClass - passed
+2022-05-28 08:48:32,421 [main] INFO BaseClass - chrome is running
+2022-05-28 08:48:38,049 [main] INFO BaseClass - User provided
+2022-05-28 08:48:38,049 [main] INFO BaseClass - Password provided
+2022-05-28 08:48:50,305 [main] INFO BaseClass - Login in Clicked
+2022-05-28 08:48:54,642 [main] INFO BaseClass - Login Passed
+2022-05-28 08:49:00,324 [main] INFO BaseClass - firefox is running
+2022-05-28 08:49:01,576 [main] INFO BaseClass - User provided
+2022-05-28 08:49:01,577 [main] INFO BaseClass - Password provided
+2022-05-28 08:49:03,471 [main] INFO BaseClass - Login in Clicked
+2022-05-28 08:49:06,806 [main] INFO BaseClass - Login Passed
+2022-05-28 08:55:19,904 [main] INFO BaseClass - chrome is running
+2022-05-28 08:55:25,738 [main] INFO BaseClass - User provided
+2022-05-28 08:55:25,739 [main] INFO BaseClass - Password provided
+2022-05-28 08:55:29,230 [main] INFO BaseClass - Login in Clicked
+2022-05-28 08:55:31,485 [main] INFO BaseClass - Login Failed
+2022-05-28 09:00:28,851 [main] INFO BaseClass - chrome is running
+2022-05-28 09:00:34,444 [main] INFO BaseClass - User provided
+2022-05-28 09:00:34,445 [main] INFO BaseClass - Password provided
+2022-05-28 09:00:37,357 [main] INFO BaseClass - Login in Clicked
+2022-05-28 09:00:39,648 [main] INFO BaseClass - Login Failed
+2022-05-28 09:11:48,033 [main] INFO BaseClass - chrome is running
+2022-05-28 09:11:54,016 [main] INFO BaseClass - User provided
+2022-05-28 09:11:54,017 [main] INFO BaseClass - Password provided
+2022-05-28 09:11:57,540 [main] INFO BaseClass - Login in Clicked
+2022-05-28 09:12:01,201 [main] INFO BaseClass - Login Passed
+2022-05-28 14:24:26,808 [main] INFO BaseClass - chrome is running
+2022-05-28 14:24:32,446 [main] INFO BaseClass - User provided
+2022-05-28 14:24:32,449 [main] INFO BaseClass - Password provided
+2022-05-28 14:24:36,078 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:24:39,874 [main] INFO BaseClass - Login Passed
+2022-05-28 14:24:46,613 [main] INFO BaseClass - chrome is running
+2022-05-28 14:29:21,190 [main] INFO BaseClass - chrome is running
+2022-05-28 14:29:26,711 [main] INFO BaseClass - User provided
+2022-05-28 14:29:26,712 [main] INFO BaseClass - Password provided
+2022-05-28 14:29:29,765 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:29:33,554 [main] INFO BaseClass - Login Passed
+2022-05-28 14:29:39,820 [main] INFO BaseClass - chrome is running
+2022-05-28 14:32:48,226 [main] INFO BaseClass - chrome is running
+2022-05-28 14:32:53,787 [main] INFO BaseClass - User provided
+2022-05-28 14:32:53,789 [main] INFO BaseClass - Password provided
+2022-05-28 14:32:56,594 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:33:00,322 [main] INFO BaseClass - Login Passed
+2022-05-28 14:33:07,338 [main] INFO BaseClass - chrome is running
+2022-05-28 14:33:13,512 [main] INFO BaseClass - User provided
+2022-05-28 14:33:13,623 [main] INFO BaseClass - Password provided
+2022-05-28 14:33:13,731 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:33:15,946 [main] INFO BaseClass - Login Failed
+2022-05-28 14:33:16,413 [main] INFO BaseClass - User provided
+2022-05-28 14:33:16,486 [main] INFO BaseClass - Password provided
+2022-05-28 14:33:16,562 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:33:18,756 [main] INFO BaseClass - Login Failed
+2022-05-28 14:33:19,812 [main] INFO BaseClass - User provided
+2022-05-28 14:33:19,886 [main] INFO BaseClass - Password provided
+2022-05-28 14:33:19,965 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:33:22,159 [main] INFO BaseClass - Login Failed
+2022-05-28 14:33:22,569 [main] INFO BaseClass - User provided
+2022-05-28 14:33:22,634 [main] INFO BaseClass - Password provided
+2022-05-28 14:33:22,705 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:33:24,888 [main] INFO BaseClass - Login Failed
+2022-05-28 14:41:28,156 [main] INFO BaseClass - chrome is running
+2022-05-28 14:41:33,127 [main] INFO BaseClass - User provided
+2022-05-28 14:41:33,128 [main] INFO BaseClass - Password provided
+2022-05-28 14:41:36,088 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:41:39,816 [main] INFO BaseClass - Login Passed
+2022-05-28 14:41:46,240 [main] INFO BaseClass - chrome is running
+2022-05-28 14:41:53,455 [main] INFO BaseClass - User provided
+2022-05-28 14:41:53,557 [main] INFO BaseClass - Password provided
+2022-05-28 14:41:53,649 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:41:55,852 [main] INFO BaseClass - Login Failed
+2022-05-28 14:41:56,310 [main] INFO BaseClass - User provided
+2022-05-28 14:41:56,380 [main] INFO BaseClass - Password provided
+2022-05-28 14:41:56,462 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:41:58,633 [main] INFO BaseClass - Login Failed
+2022-05-28 14:41:59,423 [main] INFO BaseClass - User provided
+2022-05-28 14:41:59,498 [main] INFO BaseClass - Password provided
+2022-05-28 14:41:59,574 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:42:01,765 [main] INFO BaseClass - Login Failed
+2022-05-28 14:42:02,182 [main] INFO BaseClass - User provided
+2022-05-28 14:42:02,247 [main] INFO BaseClass - Password provided
+2022-05-28 14:42:02,327 [main] INFO BaseClass - Login in Clicked
+2022-05-28 14:42:04,495 [main] INFO BaseClass - Login Failed
+2022-05-29 22:14:09,145 [main] INFO BaseClass - chrome is running
+2022-05-29 22:14:14,911 [main] INFO BaseClass - User provided
+2022-05-29 22:14:14,912 [main] INFO BaseClass - Password provided
+2022-05-29 22:14:18,051 [main] INFO BaseClass - Login in Clicked
+2022-05-29 22:14:21,185 [main] INFO BaseClass - Login Passed
+2022-05-29 22:14:27,527 [main] INFO BaseClass - chrome is running
+2022-05-29 22:14:34,472 [main] INFO BaseClass - User provided
+2022-05-29 22:14:34,567 [main] INFO BaseClass - Password provided
+2022-05-29 22:14:34,649 [main] INFO BaseClass - Login in Clicked
+2022-05-29 22:14:36,889 [main] INFO BaseClass - Login Failed
+2022-05-29 22:14:37,362 [main] INFO BaseClass - User provided
+2022-05-29 22:14:37,432 [main] INFO BaseClass - Password provided
+2022-05-29 22:14:37,525 [main] INFO BaseClass - Login in Clicked
+2022-05-29 22:14:39,695 [main] INFO BaseClass - Login Failed
+2022-05-29 22:14:40,125 [main] INFO BaseClass - User provided
+2022-05-29 22:14:40,205 [main] INFO BaseClass - Password provided
+2022-05-29 22:14:40,288 [main] INFO BaseClass - Login in Clicked
+2022-05-29 22:14:42,463 [main] INFO BaseClass - Login Failed
+2022-05-29 22:14:42,880 [main] INFO BaseClass - User provided
+2022-05-29 22:14:42,949 [main] INFO BaseClass - Password provided
+2022-05-29 22:14:43,037 [main] INFO BaseClass - Login in Clicked
+2022-05-29 22:14:45,218 [main] INFO BaseClass - Login Failed
+2022-05-29 22:14:50,865 [main] INFO BaseClass - chrome is running
+2022-05-29 22:19:15,711 [main] INFO BaseClass - chrome is running
+2022-05-29 22:19:21,192 [main] INFO BaseClass - URL opened
+2022-05-29 22:22:39,324 [main] INFO BaseClass - chrome is running
+2022-05-29 22:22:44,944 [main] INFO BaseClass - URL opened
+2022-05-29 22:27:54,468 [main] INFO BaseClass - chrome is running
+2022-05-29 22:28:00,101 [main] INFO BaseClass - URL opened
+2022-05-29 22:28:09,208 [main] INFO BaseClass - email entered
+2022-05-29 22:28:09,317 [main] INFO BaseClass - password entered
+2022-05-29 22:28:09,596 [main] INFO BaseClass - role selected
+2022-05-29 22:30:56,083 [main] INFO BaseClass - chrome is running
+2022-05-29 22:31:01,601 [main] INFO BaseClass - URL opened
+2022-05-29 22:31:07,875 [main] INFO BaseClass - email entered
+2022-05-29 22:31:07,976 [main] INFO BaseClass - password entered
+2022-05-29 22:31:08,250 [main] INFO BaseClass - role selected
+2022-05-29 22:34:57,198 [main] INFO BaseClass - chrome is running
+2022-05-29 22:35:02,713 [main] INFO BaseClass - URL opened
+2022-05-29 22:35:11,763 [main] INFO BaseClass - email entered
+2022-05-29 22:35:11,867 [main] INFO BaseClass - password entered
+2022-05-29 22:35:12,154 [main] INFO BaseClass - role selected
+2022-05-29 22:41:18,038 [main] INFO BaseClass - chrome is running
+2022-05-29 22:41:23,499 [main] INFO BaseClass - URL opened
+2022-05-29 22:41:29,453 [main] INFO BaseClass - email entered
+2022-05-29 22:41:29,564 [main] INFO BaseClass - password entered
+2022-05-29 22:41:29,672 [main] INFO BaseClass - fname entered
+2022-05-29 22:41:29,778 [main] INFO BaseClass - lname entered
+2022-05-29 22:41:29,850 [main] INFO BaseClass - gender selected
+2022-05-29 22:41:29,997 [main] INFO BaseClass - date entered
+2022-05-29 22:44:39,337 [main] INFO BaseClass - chrome is running
+2022-05-29 22:44:44,823 [main] INFO BaseClass - URL opened
+2022-05-29 22:44:50,374 [main] INFO BaseClass - email entered
+2022-05-29 22:44:50,477 [main] INFO BaseClass - password entered
+2022-05-29 22:44:50,579 [main] INFO BaseClass - fname entered
+2022-05-29 22:44:50,685 [main] INFO BaseClass - lname entered
+2022-05-29 22:44:50,796 [main] INFO BaseClass - gender selected
+2022-05-29 22:44:50,915 [main] INFO BaseClass - date entered
+2022-05-29 22:44:51,029 [main] INFO BaseClass - companyname entered
+2022-05-29 22:47:36,656 [main] INFO BaseClass - chrome is running
+2022-05-29 22:47:48,011 [main] INFO BaseClass - URL opened
+2022-05-29 22:48:06,799 [main] INFO BaseClass - email entered
+2022-05-29 22:48:06,899 [main] INFO BaseClass - password entered
+2022-05-29 22:48:07,010 [main] INFO BaseClass - fname entered
+2022-05-29 22:48:07,109 [main] INFO BaseClass - lname entered
+2022-05-29 22:48:07,201 [main] INFO BaseClass - gender selected
+2022-05-29 22:48:07,327 [main] INFO BaseClass - date entered
+2022-05-29 22:48:07,431 [main] INFO BaseClass - companyname entered
+2022-05-29 22:48:07,499 [main] INFO BaseClass - taxextent clicked
+2022-05-29 22:50:11,851 [main] INFO BaseClass - chrome is running
+2022-05-29 22:50:17,288 [main] INFO BaseClass - URL opened
+2022-05-29 22:50:23,422 [main] INFO BaseClass - email entered
+2022-05-29 22:50:23,521 [main] INFO BaseClass - password entered
+2022-05-29 22:50:23,621 [main] INFO BaseClass - fname entered
+2022-05-29 22:50:23,728 [main] INFO BaseClass - lname entered
+2022-05-29 22:50:23,817 [main] INFO BaseClass - gender selected
+2022-05-29 22:50:23,945 [main] INFO BaseClass - date entered
+2022-05-29 22:50:24,043 [main] INFO BaseClass - companyname entered
+2022-05-29 22:50:24,121 [main] INFO BaseClass - taxextent clicked
+2022-05-29 22:50:24,353 [main] INFO BaseClass - role selected
+2022-05-29 22:51:51,149 [main] INFO BaseClass - chrome is running
+2022-05-29 22:51:56,644 [main] INFO BaseClass - URL opened
+2022-05-29 22:52:02,933 [main] INFO BaseClass - email entered
+2022-05-29 22:52:03,042 [main] INFO BaseClass - password entered
+2022-05-29 22:52:03,158 [main] INFO BaseClass - fname entered
+2022-05-29 22:52:03,253 [main] INFO BaseClass - lname entered
+2022-05-29 22:52:03,345 [main] INFO BaseClass - gender selected
+2022-05-29 22:52:03,487 [main] INFO BaseClass - date entered
+2022-05-29 22:52:03,590 [main] INFO BaseClass - companyname entered
+2022-05-29 22:52:03,665 [main] INFO BaseClass - taxextent clicked
+2022-05-29 22:52:03,909 [main] INFO BaseClass - role selected
+2022-05-29 22:53:00,252 [main] INFO BaseClass - chrome is running
+2022-05-29 22:53:05,599 [main] INFO BaseClass - URL opened
+2022-05-29 22:53:11,942 [main] INFO BaseClass - email entered
+2022-05-29 22:53:12,122 [main] INFO BaseClass - password entered
+2022-05-29 22:53:12,275 [main] INFO BaseClass - fname entered
+2022-05-29 22:53:12,435 [main] INFO BaseClass - lname entered
+2022-05-29 22:53:12,546 [main] INFO BaseClass - gender selected
+2022-05-29 22:53:12,697 [main] INFO BaseClass - date entered
+2022-05-29 22:53:12,825 [main] INFO BaseClass - companyname entered
+2022-05-29 22:53:12,912 [main] INFO BaseClass - taxextent clicked
+2022-05-29 22:53:13,184 [main] INFO BaseClass - role selected
+2022-05-29 22:53:13,425 [main] INFO BaseClass - comment added
+2022-05-29 22:53:15,176 [main] INFO BaseClass - clicked on save
+2022-05-29 22:53:15,177 [main] INFO BaseClass - validation started....
+2022-05-29 22:53:15,485 [main] INFO BaseClass - test case passed....
+2022-05-30 17:14:51,241 [main] INFO BaseClass - chrome is running
+2022-05-30 17:14:57,452 [main] INFO BaseClass - URL opened
+2022-05-30 17:15:09,501 [main] INFO BaseClass - email entered
+2022-05-30 17:15:09,664 [main] INFO BaseClass - password entered
+2022-05-30 17:15:09,856 [main] INFO BaseClass - fname entered
+2022-05-30 17:15:10,020 [main] INFO BaseClass - lname entered
+2022-05-30 17:15:10,161 [main] INFO BaseClass - gender selected
+2022-05-30 17:15:10,321 [main] INFO BaseClass - date entered
+2022-05-30 17:15:10,498 [main] INFO BaseClass - companyname entered
+2022-05-30 17:15:10,612 [main] INFO BaseClass - taxextent clicked
+2022-05-30 17:15:10,908 [main] INFO BaseClass - role selected
+2022-05-30 17:15:11,197 [main] INFO BaseClass - comment added
+2022-05-30 17:15:14,572 [main] INFO BaseClass - clicked on save
+2022-05-30 17:15:14,573 [main] INFO BaseClass - validation started....
+2022-05-30 17:15:15,044 [main] INFO BaseClass - test case passed....
+2022-05-30 17:54:13,906 [main] INFO BaseClass - chrome is running
+2022-05-30 17:54:19,571 [main] INFO BaseClass - URL opened
+2022-05-30 17:54:28,501 [main] INFO BaseClass - email entered
+2022-05-30 17:54:28,626 [main] INFO BaseClass - password entered
+2022-05-30 17:54:28,720 [main] INFO BaseClass - fname entered
+2022-05-30 17:54:28,828 [main] INFO BaseClass - lname entered
+2022-05-30 17:54:28,921 [main] INFO BaseClass - gender selected
+2022-05-30 17:54:29,047 [main] INFO BaseClass - date entered
+2022-05-30 17:54:29,154 [main] INFO BaseClass - companyname entered
+2022-05-30 17:54:29,233 [main] INFO BaseClass - taxextent clicked
+2022-05-30 17:54:29,440 [main] INFO BaseClass - role selected
+2022-05-30 17:54:29,649 [main] INFO BaseClass - comment added
+2022-05-30 17:54:32,035 [main] INFO BaseClass - clicked on save
+2022-05-30 17:54:32,035 [main] INFO BaseClass - validation started....
+2022-05-30 17:54:32,333 [main] INFO BaseClass - test case passed....
+2022-05-30 18:04:35,060 [main] INFO BaseClass - chrome is running
+2022-05-30 18:04:40,976 [main] INFO BaseClass - URL opened
+2022-05-30 18:04:49,951 [main] INFO BaseClass - email entered
+2022-05-30 18:04:50,147 [main] INFO BaseClass - password entered
+2022-05-30 18:04:50,317 [main] INFO BaseClass - fname entered
+2022-05-30 18:04:50,508 [main] INFO BaseClass - lname entered
+2022-05-30 18:04:50,678 [main] INFO BaseClass - gender selected
+2022-05-30 18:04:50,905 [main] INFO BaseClass - date entered
+2022-05-30 18:04:51,103 [main] INFO BaseClass - companyname entered
+2022-05-30 18:04:51,216 [main] INFO BaseClass - taxextent clicked
+2022-05-30 18:04:51,608 [main] INFO BaseClass - role selected
+2022-05-30 18:04:51,998 [main] INFO BaseClass - comment added
+2022-05-30 18:04:53,534 [main] INFO BaseClass - clicked on save
+2022-05-30 18:04:53,537 [main] INFO BaseClass - validation started....
+2022-05-30 18:04:54,566 [main] INFO BaseClass - test case passed....
+2022-05-31 07:23:02,768 [main] INFO BaseClass - chrome is running
+2022-05-31 07:23:08,344 [main] INFO BaseClass - URL opened
+2022-05-31 07:23:16,842 [main] INFO BaseClass - email entered
+2022-05-31 07:23:16,935 [main] INFO BaseClass - password entered
+2022-05-31 07:23:17,016 [main] INFO BaseClass - fname entered
+2022-05-31 07:23:17,102 [main] INFO BaseClass - lname entered
+2022-05-31 07:23:17,208 [main] INFO BaseClass - gender selected
+2022-05-31 07:23:17,314 [main] INFO BaseClass - date entered
+2022-05-31 07:23:17,404 [main] INFO BaseClass - companyname entered
+2022-05-31 07:23:17,476 [main] INFO BaseClass - taxextent clicked
+2022-05-31 07:23:17,708 [main] INFO BaseClass - role selected
+2022-05-31 07:23:17,932 [main] INFO BaseClass - comment added
+2022-05-31 07:23:19,353 [main] INFO BaseClass - clicked on save
+2022-05-31 07:23:19,354 [main] INFO BaseClass - validation started....
+2022-05-31 07:23:20,015 [main] INFO BaseClass - test case passed....
+2022-05-31 07:23:51,559 [main] INFO BaseClass - chrome is running
+2022-05-31 07:23:57,086 [main] INFO BaseClass - URL opened
+2022-05-31 07:24:03,883 [main] INFO BaseClass - email entered
+2022-05-31 07:24:03,988 [main] INFO BaseClass - password entered
+2022-05-31 07:24:04,108 [main] INFO BaseClass - fname entered
+2022-05-31 07:24:04,220 [main] INFO BaseClass - lname entered
+2022-05-31 07:24:04,328 [main] INFO BaseClass - gender selected
+2022-05-31 07:24:04,454 [main] INFO BaseClass - date entered
+2022-05-31 07:24:04,542 [main] INFO BaseClass - companyname entered
+2022-05-31 07:24:04,628 [main] INFO BaseClass - taxextent clicked
+2022-05-31 07:24:04,813 [main] INFO BaseClass - role selected
+2022-05-31 07:24:04,983 [main] INFO BaseClass - comment added
+2022-05-31 07:24:06,036 [main] INFO BaseClass - clicked on save
+2022-05-31 07:24:06,036 [main] INFO BaseClass - validation started....
+2022-05-31 07:24:06,560 [main] INFO BaseClass - test case passed....
